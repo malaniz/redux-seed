@@ -1,0 +1,28 @@
+{
+  "name": "boil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-es2016": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "immutable-js": "^0.3.1-6",
+    "material-ui": "^0.16.1",
+    "moment": "^2.15.2",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "react-tap-event-plugin": "^1.0.0",
+    "react-time": "^4.2.0",
+    "redux": "^3.6.0",
+    "webpack": "^1.13.3"
+  }
+}
